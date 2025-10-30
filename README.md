@@ -4,6 +4,17 @@ I’m a Cloud and Cybersecurity professional in training — blending real-world
 
 ---
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation]**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)]**
+
+---
+
 ### 🧠 I’m currently learning
 - AWS Certified Solutions Architect – Associate (✅ Certified)
 - CompTIA Security+ (In progress)
@@ -12,13 +23,6 @@ I’m a Cloud and Cybersecurity professional in training — blending real-world
 
 ---
 
-### 🚀 I’m currently working on
-- Building **hands-on labs** for AWS, IAM, and Security Hub  
-- Developing my personal cloud portfolio using Terraform and Python  
-- Documenting my cybersecurity learning path and certifications  
-- Designing dashboards to visualize vulnerabilities and compliance metrics  
-
----
 
 ### 📫 How to reach me
 - 📧 **mitchelcadams@gmail.com**  
