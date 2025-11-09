@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Mitch+Adams!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+There!+👋;+I'm+Mitch+Adams!;" />
 </h1>
 
-<h3 align="center">👋 Agentic AI Security Engineer & GRC Engineer & Vulnerability Management </h3>
+<h3 align="center">👋 Cloud Security Engineer & GRC Engineer & Vulnerability Management </h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/mitchelcadams"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
