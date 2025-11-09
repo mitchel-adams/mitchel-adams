@@ -17,7 +17,7 @@ I’m a Cloud and Cybersecurity professional in training — blending real-world
 
 ### 🧠 I’m currently learning
 - AWS Certified Solutions Architect – Associate (✅ Certified)
-- CompTIA Security+ (In progress)
+- CompTIA Security+ (✅ Certified)
 - Cloud security fundamentals, IAM design, and SOC workflows
 - Offensive security tools (TryHackMe & HackTheBox labs)
 
