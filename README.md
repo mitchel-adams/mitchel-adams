@@ -1,6 +1,23 @@
-## 👋 Hi there, I’m Mitch
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Howdy!+👋;+I'm+Trevino+Parker!;" />
+</h1>
 
-I’m a Cloud and Cybersecurity professional in training — blending real-world leadership experience with a passion for building, securing, and scaling modern cloud environments.
+<h3 align="center">👋 Agentic AI Security Engineer & GRC Engineer & Vulnerability Management </h3>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/mitchelcadams"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+I’m a Cloud and Cybersecurity professional, blending real-world leadership experience with a passion for building, securing, and scaling modern cloud environments.
 
 ---
 
