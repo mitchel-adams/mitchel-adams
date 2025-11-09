@@ -7,7 +7,7 @@ I’m a Cloud and Cybersecurity professional in training — blending real-world
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/mitchel-adams/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/mitchel-adams/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
