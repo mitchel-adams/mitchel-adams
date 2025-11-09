@@ -25,6 +25,7 @@ I’m a Cloud and Cybersecurity professional, blending real-world leadership exp
 
 - **[Vulnerability Management Program Implementation](https://github.com/mitchel-adams/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/mitchel-adams/programmatic-vulnerability-remediations)**
+- **[STIG Implementations Remediations (Powershell)](https://github.com/mitchel-adams/STIG-Implementations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
