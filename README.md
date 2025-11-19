@@ -29,8 +29,8 @@ I’m a Cloud and Cybersecurity professional, blending real-world leadership exp
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mitchel-adams/threat-hunting/blob/main/TOR-Browser-Usage.md))**
-
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mitchel-adams/threat-hunting/blob/main/TOR-Browser-Usage.md)**
+- **[Threat Hunting Scenario (The Great Admin Heist)](https://github.com/mitchel-adams/threat-hunting/blob/main/The-Great-Admin-Heist.md)**
 ---
 
 ### 🧠 I’m currently learning
