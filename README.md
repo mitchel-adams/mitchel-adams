@@ -24,6 +24,10 @@ I specialize in **security automation**, **vulnerability management, GRC control
 As a GRC and cloud security practitioner, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Microsoft Defender, Python, and Bash** to automate risk assessments, validate controls, streamline remediation, and strengthen enterprise security postures across cloud and SaaS environments.
 
 ---
+### 🤖 Agentic AI Engineer Projects 🤖
+
+- **[Agentic AI SOC Analyst](https://github.com/mitchel-adams/Agentic_AI_SOC_Analyst_Threat_Hunter/)**
+
 
 ## ⚠️ Vulnerability Management Projects
 
