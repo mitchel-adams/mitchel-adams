@@ -17,7 +17,11 @@
   </picture>
 </div>
 
-I’m a Cloud and Cybersecurity professional, blending real-world leadership experience with a passion for building, securing, and scaling modern cloud environments.
+I’m an **Agentic AI Security Engineer** focused on protecting **multi-agent systems** and LLM workloads against real-world threats, including model poisoning, prompt injection, data exfiltration, and adversarial manipulation. I apply the **OWASP Top 10 for LLMs**, enforce secure IAM/RBAC patterns, and manage policies, secrets, and key governance to keep AI/ML pipelines secure and compliant.
+
+I specialize in **security automation**, **vulnerability management, GRC controls, and incident response**, aligning work to frameworks such as **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, and CMMC.**
+
+As a GRC and cloud security practitioner, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Microsoft Defender, Python, and Bash** to automate risk assessments, validate controls, streamline remediation, and strengthen enterprise security postures across cloud and SaaS environments.
 
 ---
 
