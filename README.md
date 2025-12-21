@@ -45,7 +45,7 @@ As a GRC and cloud security practitioner, I use **AWS, Azure, GCP, Drata, Vanta,
 
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/mitchel-adams/Cloud-SOC)** *(Live Traffic)*
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/mitchel-adams/Splunk)** *(Live Traffic)*
-- - **[Why Threat Maps Are Essential for CEOs and Non-Tech People](https://github.com/mitchel-adams/Threat-Mapping-For-Non-Technical-People)**
+- **[Why Threat Maps Are Essential for CEOs and Non-Tech People](https://github.com/mitchel-adams/Threat-Mapping-For-Non-Technical-People)**
 
 ---
 
