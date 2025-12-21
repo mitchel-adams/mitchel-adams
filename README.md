@@ -23,28 +23,32 @@ I investigate security events across cloud and endpoint telemetry, correlating l
 I support SOC operations through vulnerability management, automation, and threat modeling, aligning detections to frameworks such as MITRE ATT&CK and NIST. My tooling includes Microsoft Defender, cloud-native logs, Tenable, Qualys, Python, and Bash.
 
 ---
-### 🤖 Agentic AI Engineer Projects 🤖
-
-- **[Agentic AI SOC Analyst](https://github.com/mitchel-adams/Agentic_AI_SOC_Analyst_Threat_Hunter/)**
-
-
+# 🔵 BLUE TEAM 🔵
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/mitchel-adams/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/mitchel-adams/programmatic-vulnerability-remediations)**
 - **[10 STIG Implementations Remediations (Powershell)](https://github.com/mitchel-adams/STIG-Implementations)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Incident Response
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mitchel-adams/threat-hunting/blob/main/TOR-Browser-Usage.md)**
 - **[Threat Hunting Scenario (The Great Admin Heist)](https://github.com/mitchel-adams/threat-hunting/blob/main/The-Great-Admin-Heist.md)**
+- **[Incident Response: Phishing via Fake Software Update ](https://github.com/mitchel-adams/Phishing-Software-Update)**
 
-### 🟣 PURPLE TEAM 🟣
-#### 🎯 Full SIEM
+---
+# 🟣 PURPLE TEAM 🟣
+## 🎯 Full SIEM
 
 - **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/mitchel-adams/Cloud-SOC)** *(Live Traffic)*
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/mitchel-adams/Splunk)** *(Live Traffic)*
 - **[Why Threat Maps Are Essential for CEOs and Non-Tech People](https://github.com/mitchel-adams/Threat-Mapping-For-Non-Technical-People)**
+
+---
+# 🏗️ SECURITY ENGINEERING 🏗️
+## 🤖 Agentic AI Engineer Projects 🤖
+
+- **[Agentic AI SOC Analyst](https://github.com/mitchel-adams/Agentic_AI_SOC_Analyst_Threat_Hunter/)**
 
 ---
 
