@@ -39,6 +39,12 @@ As a GRC and cloud security practitioner, I use **AWS, Azure, GCP, Drata, Vanta,
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mitchel-adams/threat-hunting/blob/main/TOR-Browser-Usage.md)**
 - **[Threat Hunting Scenario (The Great Admin Heist)](https://github.com/mitchel-adams/threat-hunting/blob/main/The-Great-Admin-Heist.md)**
+
+### 🟣 PURPLE TEAM 🟣
+#### 🎯 Full SIEM
+
+- **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM)** *(Live Traffic)*
+
 ---
 
 ### 🧠 I’m currently learning
