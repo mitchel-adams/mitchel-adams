@@ -2,10 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+There!+👋;+I'm+Mitch+Adams!;" />
 </h1>
 
-<h3 align="center">👋 SOC Analyst | Detection Engineering & Incident Response </h3>
+<h3 align="center">👋 SOC Analyst | Detection Engineering & Incident Response 👋</h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/mitchelcadams"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.youtube.com/@StoryHacking"><img width="100" height="30" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>
 
 </div>
 
@@ -24,13 +25,13 @@ I support SOC operations through vulnerability management, automation, and threa
 
 ---
 ## 🔵 BLUE TEAM 🔵
-### ⚠️ Vulnerability Management Projects
+### ⚠️ Vulnerability Management Projects ⚠️
 
 - **[Vulnerability Management Program Implementation](https://github.com/mitchel-adams/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/mitchel-adams/programmatic-vulnerability-remediations)**
 - **[10 STIG Implementations Remediations (Powershell)](https://github.com/mitchel-adams/STIG-Implementations)**
 
-### 🚨 Threat Hunting and Incident Response
+### 🚨 Threat Hunting and Incident Response 🚨
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mitchel-adams/threat-hunting/blob/main/TOR-Browser-Usage.md)**
 - **[Threat Hunting Scenario (The Great Admin Heist)](https://github.com/mitchel-adams/threat-hunting/blob/main/The-Great-Admin-Heist.md)**
@@ -39,7 +40,7 @@ I support SOC operations through vulnerability management, automation, and threa
 
 ---
 ## 🟣 PURPLE TEAM 🟣
-### 🎯 Full SIEM
+### 🎯 Full SIEM 🎯
 
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/mitchel-adams/Splunk)** *(Live Traffic)*
 - **[Why Threat Maps Are Essential for CEOs and Non-Tech People](https://github.com/mitchel-adams/Threat-Mapping-For-Non-Technical-People)**
@@ -58,7 +59,7 @@ I support SOC operations through vulnerability management, automation, and threa
 ### 🧠 I’m currently learning
 - AWS Certified Solutions Architect – Associate (✅ Certified)
 - CompTIA Security+ (✅ Certified)
-- OSCP (In Progress)
+- OSCP (🔄 In Progress)
 - Offensive security tools (TryHackMe & HackTheBox labs)
 
 ---
