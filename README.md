@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hey+There!+👋;+I'm+Mitch+Adams!;" />
 </h1>
 
-<h3 align="center">👋 Cloud Security Engineer & GRC Engineer & Vulnerability Management </h3>
+<h3 align="center">👋 SOC Analyst | Detection Engineering & Incident Response </h3>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/mitchelcadams"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,11 +17,10 @@
   </picture>
 </div>
 
-I’m an **Agentic AI Security Engineer** focused on protecting **multi-agent systems** and LLM workloads against real-world threats, including model poisoning, prompt injection, data exfiltration, and adversarial manipulation. I apply the **OWASP Top 10 for LLMs**, enforce secure IAM/RBAC patterns, and manage policies, secrets, and key governance to keep AI/ML pipelines secure and compliant.
+**SOC Analyst** with a focus on **threat detection** and **incident response**.
+I investigate security events across cloud and endpoint telemetry, correlating logs to detect credential abuse, lateral movement, and data exfiltration. I work with SIEM and EDR to tune detections, reduce alert fatigue, and improve response workflows.
 
-I specialize in **security automation**, **vulnerability management, GRC controls, and incident response**, aligning work to frameworks such as **NIST AI RMF, ISO 27001, SOC 2, HIPAA, PCI-DSS, FedRAMP, and CMMC.**
-
-As a GRC and cloud security practitioner, I use **AWS, Azure, GCP, Drata, Vanta, Tenable, Qualys, Microsoft Defender, Python, and Bash** to automate risk assessments, validate controls, streamline remediation, and strengthen enterprise security postures across cloud and SaaS environments.
+I support SOC operations through vulnerability management, automation, and threat modeling, aligning detections to frameworks such as MITRE ATT&CK and NIST. My tooling includes Microsoft Defender, cloud-native logs, Tenable, Qualys, Python, and Bash.
 
 ---
 ### 🤖 Agentic AI Engineer Projects 🤖
