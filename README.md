@@ -43,7 +43,7 @@ As a GRC and cloud security practitioner, I use **AWS, Azure, GCP, Drata, Vanta,
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
 
-- **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/trevinoparker7/Splunk-SIEM)** *(Live Traffic)*
+- **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/mitchel-adams/Splunk)** *(Live Traffic)*
 
 ---
 
