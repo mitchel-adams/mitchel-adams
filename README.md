@@ -43,6 +43,7 @@ As a GRC and cloud security practitioner, I use **AWS, Azure, GCP, Drata, Vanta,
 ### 🟣 PURPLE TEAM 🟣
 #### 🎯 Full SIEM
 
+- **[Implementing a SOC & Honeynet with Azure; Attacking and remediating it](https://github.com/mitchel-adams/Cloud-SOC)** *(Live Traffic)*
 - **[Setting up Splunk SIEM; Attacking and remediating it](https://github.com/mitchel-adams/Splunk)** *(Live Traffic)*
 
 ---
@@ -50,7 +51,7 @@ As a GRC and cloud security practitioner, I use **AWS, Azure, GCP, Drata, Vanta,
 ### 🧠 I’m currently learning
 - AWS Certified Solutions Architect – Associate (✅ Certified)
 - CompTIA Security+ (✅ Certified)
-- Cloud security fundamentals, IAM design, and SOC workflows
+- OSCP (In Progress)
 - Offensive security tools (TryHackMe & HackTheBox labs)
 
 ---
