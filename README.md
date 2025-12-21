@@ -37,7 +37,7 @@ I support SOC operations through vulnerability management, automation, and threa
 - **[Threat Hunting Scenario (The Great Admin Heist)](https://github.com/mitchel-adams/threat-hunting/blob/main/The-Great-Admin-Heist.md)**
 - **[Incident Response: Threat Hunting (Operation Jackal Spear) ](https://github.com/mitchel-adams/threat-hunting/blob/main/Operation-Jackal-Spear.md)**
 - **[Incident Response: Phishing via Fake Software Update ](https://github.com/mitchel-adams/Phishing-Software-Update)**
-- **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/mitchel-adams/threat-hunting/blob/main/Zero-Day-Ransomware-PwnCrypt)**
+- **[Incident Response: Zero-Day Ransomware (PwnCrypt)](https://github.com/mitchel-adams/threat-hunting/blob/main/Zero-Day-Ransomware-PwnCrypt.md)**
 
 ---
 ## 🟣 PURPLE TEAM 🟣
